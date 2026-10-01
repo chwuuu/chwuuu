@@ -1,4 +1,9 @@
-## Hi there 👋
+## Cheng-Ho Wu
+
+AI Practitioner · Cloud Architect · Educator
+Google Cloud Partner All-star 2024 — Solutions Engineering
+
+I build and write about AI systems, cloud architecture, and what it takes to make AI useful in practice.
 
 <!--
 **chwuuu/chwuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
